@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1678142445 source:c:\users\hp\desktop\programy na github\c++\programs\program kalkulator - funkcja switch\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<string.h>
+	<time.h>
+	<random>
+	<stdio.h>
+	<iomanip>
+	<conio.h>
+
+1742180616 source:f:\my portafolio it ulepszona\c++\programs\simple calculator\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<iomanip>
+	"utils.h"
+
+1742180618 f:\my portafolio it ulepszona\c++\programs\simple calculator\utils.h
+	<windows.h>
+	<iostream>
+	<fstream>
+
