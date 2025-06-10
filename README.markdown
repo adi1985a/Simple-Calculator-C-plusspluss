@@ -9,6 +9,8 @@ _A straightforward C++ console calculator for quick and reliable basic mathemati
 
 **ConsoleCalc Pro** is a user-friendly C++ console application designed to perform fundamental arithmetic operations: addition, subtraction, multiplication, and division. It provides a clear, interactive experience with a colorful interface that displays current input values and results. The calculator includes robust input validation to handle incorrect entries and safeguards against common errors like division by zero. Any operational errors are logged for review. This tool is perfect for quick calculations without needing a complex GUI application.
 
+![Demo GIF](screenshots/1.gif)
+
 ## ✨ Key Features
 
 *   ➕ **Addition**: Calculate the sum of two numbers.
@@ -23,9 +25,17 @@ _A straightforward C++ console calculator for quick and reliable basic mathemati
 
 ## 🖼️ Screenshots
 
-**Coming soon!**
+_Screenshots showcasing the calculator's main menu, input prompts, calculation results, and error messages._
 
-_This section will be updated with screenshots showcasing the calculator's main menu, input prompts, calculation results, and error messages._
+<p align="center">
+  <img src="screenshots\1.jpg" width="300"/>
+  <img src="screenshots\2.jpg" width="300"/>
+  <img src="screenshots\3.jpg" width="300"/>
+  <img src="screenshots\4.jpg" width="300"/>
+  <img src="screenshots\5.jpg" width="300"/>
+  <img src="screenshots\6.jpg" width="300"/>
+</p>
+
 
 ## ⚙️ System Requirements
 
